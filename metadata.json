@@ -1,0 +1,6 @@
+{
+  "name": "ANALISIS 4D 3D 2D 2026-2027",
+  "description": "Smart Number Analytics & Statistical Probability Modeling for 4D, 3D, and 2D lottery data analysis, backtesting, and frequency pattern detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
